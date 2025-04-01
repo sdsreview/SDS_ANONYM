@@ -9,16 +9,11 @@ In this work we present See it. Do it. Sorted. : Quadruped Skill Synthesis from 
 
 - [See it, Do it, Sorted. : Quadruped Skill Synthesis from Single Video Demonstration](#see-it-do-it-sorted--quadruped-skill-synthesis-from-single-video-demonstration)
   - [Table of Content:](#table-of-content)
-  - [Results Overview](#results-overview)
-    - [Quadruped Trotting](#quadruped-trotting)
-    - [Dog Bounding](#dog-bounding)
-    - [Deer Hopping](#deer-hopping)
-    - [Horse Pacing](#horse-pacing)
   - [Installation](#installation)
     - [Running SDS](#running-sds)
   - [Real-World Deployment](#real-world-deployment)
   - [Acknowledgements](#acknowledgements)
-  - [Citation](#citation)
+
 
 
 ## Installation
@@ -26,7 +21,7 @@ In this work we present See it. Do it. Sorted. : Quadruped Skill Synthesis from 
 Clone this repository and its submodules
 
 ```
-git clone --recursive https://github.com/RPL-CS-UCL/SDS.git
+git clone --recursive https://github.com/sdsreview/SDS_ANONYM.git
 ```
 
 1. Create a new Conda Environmnet:
